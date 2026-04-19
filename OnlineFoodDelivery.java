@@ -5,7 +5,7 @@ class OnlineFoodDelivery {
 
         String url = "jdbc:mysql://localhost:3306/food_delivery";
         String user = "root";
-        String password = "Shrideviha@7s";
+        String password = "Nidhi@1514";
 
         try {
 
